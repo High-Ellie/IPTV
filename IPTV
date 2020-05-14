@@ -1,3 +1,5 @@
 #EXTM3U
+#EXTINF:-1,group-title="Digital TV"tvg-logo="https://ch3plus.com/static/images/3pluslogo_white.svg",3 HD
+https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1589472428&x_ark_path_prefix=%2Flive%2F&x_ark_signature=tx3yj7oOueyVxp4w58o4-w
 #EXTINF:-1,group-title="Digital TV"tvg-logo="https://www.one31.net/theme/images/logo-one31.png",One HD
 https://one31-rlbwkq.cdn.byteark.com/live/playlist_480p/index.m3u8
