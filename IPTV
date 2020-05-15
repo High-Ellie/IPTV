@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1,group-title="TH Digital TV"tvg-logo="http://www.tv5.co.th/tv5hd1-build91209/img/logo/tv5hd1_logo.png",ททบ 5 HD
+http://110.170.117.27:1935/tv5hd1/vdo/media_w1535321049_40044.ts
+#EXTINF:-1,group-title="TH Digital TV"tvg-logo="https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-1/cp0/p80x80/51623561_2702150706469289_8534407730083921920_n.png?_nc_cat=103&_nc_sid=dbb9e7&_nc_eui2=AeF848wZGUu5wHHJNLZ-wtWvnFEtc1PTbgOcUS1zU9NuA-M-G_4qkF0YkYwlsqTIxKHT0XMrbNxP6GVjKQAQ4HQz&_nc_ohc=6M7g0fm38FEAX9HsXYw&_nc_ht=scontent.fbkk5-4.fna&oh=5a8a1821347ee68ab95826329fd996b1&oe=5EE4C23F",NBT HD
+https://cdn777.stm.trueid.net/live1/c11_w_auto_tidapp.smil/chunklist_w1466832185_b2537779_vo_sltha_t64TWFpbg==.m3u8?appid=trueid&type=live&visitor=web&uid=559ef48ea8&mpass=eibjtsnmPa1FubzlqfOlLy5ov3QeBCB5QpXe%2BkTrpZSBQtkPR9ZLvvlYCIxbrYv2Sz%2FrviYdbMK0VMMr%2F3scI9l%2F3pbM0JiwLsFPmHmtI%2FU6Oj3YbOmyPB5IV%2Fnygz6Vids
+#EXTINF:-1,group-title="TH Digital TV"tvg-logo="https://news.thaipbs.or.th/images/logo/tpbs.png",Thai PBS HD
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1,group-title="TH Digital TV"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tnn24.png",TNN
+https://cdn702.stm.trueid.net/live2/135_th_m_auto_tidl.smil/chunklist_w2111425690_b1323827_slth.m3u8?appid=tnn&visitor=web&uid=000000001&mpass=fqd%2BhQKz%2BQDsG%2FZPtyEouJELF%2FKpc%2Ffo4B9Z9VX3qo%2BCqqMN55jNF4H4Mr25EhEQ8JXW4wFc6d7WSSe1%2BvAQkjo6RBAUJQrtoNAJ9G%2BOOFNQMQ%3D%3D
 #EXTINF:-1,group-title="TH Digital TV"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch3.png",3 HD
 https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1589472428&x_ark_path_prefix=%2Flive%2F&x_ark_signature=tx3yj7oOueyVxp4w58o4-w
 #EXTINF:-1,group-title="TH Digital TV"tvg-logo="https://www.one31.net/theme/images/logo-one31.png",One HD
