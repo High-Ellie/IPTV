@@ -71,13 +71,41 @@ https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
 #EXTINF:-1,group-title="Movie TV Channel"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbosignature.jpg",HBO Signature HD
 https://www.livedoomovies.com/02_HBOSignature_720p/chunklist.m3u8
+#EXTINF:-1,group-title="Movie TV Channel"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-screenred.jpg",RED BY HBO HD
+https://www.livedoomovies.com/02_RedbyHBO_720p/chunklist.m3u8
 #EXTINF:-1,group-title="Movie TV Channel"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png",WARNER TV HD
 https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
 #EXTINF:-1,group-title="Movie TV Channel"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-axn.png",AXN HD
 https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
 #EXTINF:-1,group-title="Movie TV Channel"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",Fox Action HD
 https://www.livedoomovies.com/02_FoxActionHD_720p/chunklist.m3u8
+#EXTINF:-1,group-title="Movie TV Channel"tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png",Fox Family Movies
+https://www.livedoomovies.com/02_FoxFamilyHD_720p/chunklist.m3u8
 #EXTINF:-1,group-title="Movie TV Channel"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-fx.jpg",FX HD
 https://www.livedoomovies.com/02_FXThailand_720p/chunklist.m3u8
+#EXTINF:-1,group-title="Movie TV Channel"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-comedycentral.png",Comedy Central
+https://www.livedoomovies.com/02_Comedy_HD_720p/chunklist.m3u8
+#EXTINF:-1,group-title="Movie TV Channel"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxcrime.jpg",Fox Crime TH
+https://www.livedoomovies.com/02_FoxCrimeHD_TH_720p/chunklist.m3u8
+#EXTINF:-1,group-title="Movie TV Channel"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxcrime.jpg",Fox Crime EN
+https://www.livedoomovies.com/02_FoxCrimeHD_720p/chunklist.m3u8
+#EXTINF:-1,group-title="Movie TV Channel"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-fox.png",Fox Thai TH
+https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
+#EXTINF:-1,group-title="Movie TV Channel"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-fox.png",Fox Thai EN
+https://www.livedoomovies.com/02_FoxThai_720p/chunklist.m3u8
+#EXTINF:-1,group-title="Movie TV Channel"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/MANGORN.png",Mangorn
+https://www.livedoomovies.com/02_MANGORN_720p/chunklist.m3u8
+#EXTINF:-1,group-title="Movie TV Channel"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/MONO_Plus.png",MONO Plus
+https://www.livedoomovies.com/02_MONO_Plus_720p/chunklist.m3u8
+#EXTINF:-1,group-title="Movie TV Channel"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/02_FOX_Life_HD_720p.png",Fox Life
+https://www.livedoomovies.com/02_FOX_Life_HD_720p/chunklist.m3u8
+#EXTINF:-1,group-title="Movie TV Channel"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/SCM.png",Star Chinese Movie
+https://www.livedoomovies.com/02_SCM_720p/chunklist.m3u8
+#EXTINF:-1,group-title="Movie TV Channel"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/CCM.png",CCM
+https://www.livedoomovies.com/02_CCM_720p/chunklist.m3u8
+#EXTINF:-1,group-title="Movie TV Channel"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/ZeeNung.png",ZEE หนัง
+https://www.livedoomovies.com/02_Zee_Nung_720p/chunklist.m3u8
+#EXTINF:-1,group-title="Movie From Cinema"tvg-logo="https://movie285.com/wp-content/uploads/2020/05/p99.jpg",The Call Of The Wild
+https://cdn5.cdn9x.com/eg2cladv/1080p.m3u8
 #EXTINF:-1,group-title="Sports"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein1.png",BEIN SPORTS HD 1
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
