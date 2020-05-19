@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1,group-title="TH Digital TV"tvg-logo="http://www.tv5.co.th/tv5hd1-build91209/img/logo/tv5hd1_logo.png",ททบ 5 HD
 http://110.170.117.27:1935/tv5hd1/vdo/media_w1535321049_40044.ts
 #EXTINF:-1,group-title="TH Digital TV"tvg-logo="https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-1/cp0/p80x80/51623561_2702150706469289_8534407730083921920_n.png?_nc_cat=103&_nc_sid=dbb9e7&_nc_eui2=AeF848wZGUu5wHHJNLZ-wtWvnFEtc1PTbgOcUS1zU9NuA-M-G_4qkF0YkYwlsqTIxKHT0XMrbNxP6GVjKQAQ4HQz&_nc_ohc=6M7g0fm38FEAX9HsXYw&_nc_ht=scontent.fbkk5-4.fna&oh=5a8a1821347ee68ab95826329fd996b1&oe=5EE4C23F",NBT HD
@@ -35,6 +36,14 @@ https://amarin-ks7jcc.cdn.byteark.com/live/playlist_720p/index.m3u8?x_ark_access
 https://bcovlive-a.akamaihd.net/44cc55c80fef46a8baa3a405433e63b8/ap-southeast-1/5282994675001/profile_4/chunklist.m3u8
 #EXTINF:-1,group-title="TH Digital TV"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-pptv.png",PPTV HD
 https://pptv36-1tsjfj.cdn.byteark.com/live/pl_720p/index.m3u8?x_ark_access_id=fleet-963&x_ark_auth_type=ark-v2&x_ark_expires=1589818801&x_ark_path_prefix=%2Flive%2F&x_ark_signature=I-1Rt6p4GqK0WkwWVTa9xQ
+
+
+
+
+
+
+
+
 #EXTINF:-1,group-title="Education Channel"tvg-logo="https://www.dltv.ac.th/upload/data/channels/01_channel_logo.png",DLTV 1 HD
 https://r8---sn-w5nuxa-c33ll.googlevideo.com/videoplayback?expire=1589819616&ei=gGTCXtSzC9W4vwSN8o1A&ip=180.183.137.70&id=9oG0GuRBPss.1&itag=136&aitags=133%2C134%2C135%2C136%2C160&source=yt_live_broadcast&requiressl=yes&mh=lY&mm=44%2C26&mn=sn-w5nuxa-c33ll%2Csn-npoe7nes&ms=lva%2Conr&mv=m&mvi=7&pl=18&initcwndbps=1166250&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1589797935&fvip=4&keepalive=yes&fexp=23882514&c=WEB_EMBEDDED_PLAYER&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRQIhANzmML3uFKZS7C7STvJ8IbVRG3tPV3VLBaV2A5DjnZrTAiB-m7BxvuxR3T9wtU8s50a1uOKJzxjbIbQdPAO_40ZNvg%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAKc5ZKvCG-2yrKgJ8R5UhLNZEUoIxdxX62dWjBAWx982AiEAvcvnbiAAI0ZgHQSCdwz_MmFDSHEaTkj8YM6H4Vjdo4o%3D
 #EXTINF:-1,group-title="Education Channel"tvg-logo="https://www.dltv.ac.th/upload/data/channels/02_channel_logo.png",DLTV 2 HD
@@ -65,6 +74,14 @@ https://dltv-live-edge.catcdn.cloud/dltv13_720p.m3u8
 https://dltv-live-edge.catcdn.cloud/dltv14_720p.m3u8
 #EXTINF:-1,group-title="Education Channel"tvg-logo="https://www.dltv.ac.th/upload/data/channels/15_channel_logo.png",DLTV 15 HD
 https://dltv-live-edge.catcdn.cloud/dltv15_720p.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1,group-title="Movie TV Channel"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg",HBO HD
 https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
 #EXTINF:-1,group-title="Movie TV Channel"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg",HBO Hits HD
@@ -105,9 +122,25 @@ https://www.livedoomovies.com/02_SCM_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_CCM_720p/chunklist.m3u8
 #EXTINF:-1,group-title="Movie TV Channel"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/ZeeNung.png",ZEE หนัง
 https://www.livedoomovies.com/02_Zee_Nung_720p/chunklist.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1,group-title="Movie From Cinema"tvg-logo="https://movie285.com/wp-content/uploads/2020/05/p99.jpg",The Call Of The Wild EN
 https://cdn5.cdn9x.com/eg2cladv/1080p.m3u8
 #EXTINF:-1,group-title="Movie From Cinema"tvg-logo="https://movie285.com/wp-content/uploads/2020/04/4045.jpg",Dragonheart Vengeance TH
 https://cdn5.cdn9x.com/3lrtkkeq/1080p.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1,group-title="Sports"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein1.png",BEIN SPORTS HD 1
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
