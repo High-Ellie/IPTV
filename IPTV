@@ -1,40 +1,40 @@
 #EXTM3U
 
-#EXTINF:-1,group-title="TH Digital TV"tvg-logo="http://www.tv5.co.th/tv5hd1-build91209/img/logo/tv5hd1_logo.png",ททบ 5 HD
+#EXTINF:-1 group-title="TH-Digital.TV" tvg-logo="http://www.tv5.co.th/tv5hd1-build91209/img/logo/tv5hd1_logo.png",ททบ 5 HD
 http://110.170.117.27:1935/tv5hd1/vdo/media_w1535321049_40044.ts
-#EXTINF:-1,group-title="TH Digital TV"tvg-logo="https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-1/cp0/p80x80/51623561_2702150706469289_8534407730083921920_n.png?_nc_cat=103&_nc_sid=dbb9e7&_nc_eui2=AeF848wZGUu5wHHJNLZ-wtWvnFEtc1PTbgOcUS1zU9NuA-M-G_4qkF0YkYwlsqTIxKHT0XMrbNxP6GVjKQAQ4HQz&_nc_ohc=6M7g0fm38FEAX9HsXYw&_nc_ht=scontent.fbkk5-4.fna&oh=5a8a1821347ee68ab95826329fd996b1&oe=5EE4C23F",NBT HD
+#EXTINF:-1 group-title="TH-Digital.TV" tvg-logo="https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-1/cp0/p80x80/51623561_2702150706469289_8534407730083921920_n.png?_nc_cat=103&_nc_sid=dbb9e7&_nc_eui2=AeF848wZGUu5wHHJNLZ-wtWvnFEtc1PTbgOcUS1zU9NuA-M-G_4qkF0YkYwlsqTIxKHT0XMrbNxP6GVjKQAQ4HQz&_nc_ohc=6M7g0fm38FEAX9HsXYw&_nc_ht=scontent.fbkk5-4.fna&oh=5a8a1821347ee68ab95826329fd996b1&oe=5EE4C23F",NBT HD
 https://cdn777.stm.trueid.net/live1/c11_w_auto_tidapp.smil/chunklist_w1466832185_b2537779_vo_sltha_t64TWFpbg==.m3u8?appid=trueid&type=live&visitor=web&uid=559ef48ea8&mpass=eibjtsnmPa1FubzlqfOlLy5ov3QeBCB5QpXe%2BkTrpZSBQtkPR9ZLvvlYCIxbrYv2Sz%2FrviYdbMK0VMMr%2F3scI9l%2F3pbM0JiwLsFPmHmtI%2FU6Oj3YbOmyPB5IV%2Fnygz6Vids
-#EXTINF:-1,group-title="TH Digital TV"tvg-logo="https://news.thaipbs.or.th/images/logo/tpbs.png",Thai PBS HD
+#EXTINF:-1 group-title="TH-Digital.TV" tvg-logo="https://news.thaipbs.or.th/images/logo/tpbs.png",Thai PBS HD
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1,group-title="TH Digital TV"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tnn24.png",TNN
+#EXTINF:-1 group-title="TH-Digital.TV" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tnn24.png",TNN
 https://cdn702.stm.trueid.net/live2/135_th_m_auto_tidl.smil/chunklist_w2111425690_b1323827_slth.m3u8?appid=tnn&visitor=web&uid=000000001&mpass=fqd%2BhQKz%2BQDsG%2FZPtyEouJELF%2FKpc%2Ffo4B9Z9VX3qo%2BCqqMN55jNF4H4Mr25EhEQ8JXW4wFc6d7WSSe1%2BvAQkjo6RBAUJQrtoNAJ9G%2BOOFNQMQ%3D%3D
-#EXTINF:-1,group-title="TH Digital TV"tvg-logo="https://www.newtv.co.th/assets/newtv/img/new18logo_new.png",NEW 18 HD
+#EXTINF:-1 group-title="TH-Digital.TV" tvg-logo="https://www.newtv.co.th/assets/newtv/img/new18logo_new.png",NEW 18 HD
 https://stream-03.sg1.dailymotion.com/sec(zsJvUO364Q-dgxMxWVypVSSlwNn842h5P-4xbWwi6M0)/dm/3/x7mqup9/d/live-4.m3u8
-#EXTINF:-1,group-title="TH Digital TV"https://www.nationtv.tv/main/assets/images-v5/logo.png",Nation 22
+#EXTINF:-1 group-title="TH-Digital.TV" tvg-logo="https://www.nationtv.tv/main/assets/images-v5/logo.png",Nation 22
 https://stream-05.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSds13ynwwvX7_e8hxGPvTkw)/dm/3/x6eoldf/d/live-2.m3u8
-#EXTINF:-1,group-title="TH Digital TV"tvg-logo="https://www.workpointtv.com/wp-content/themes/wptv/assets/logo-wptv.png",Workpoint HD
+#EXTINF:-1 group-title="TH-Digital.TV" tvg-logo="https://www.workpointtv.com/wp-content/themes/wptv/assets/logo-wptv.png",Workpoint HD
 https://stream-05.sg1.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8gRljz7W7dF5KoimGDqjJA8)/dm/3/x6g9qjj/s/live-4.m3u8
-#EXTINF:-1,group-title="TH Digital TV"tvg-logo="http://true4u.truelife.com/images/t4u/logo.png",True4U
+#EXTINF:-1 group-title="TH-Digital.TV" tvg-logo="http://true4u.truelife.com/images/t4u/logo.png",True4U
 https://r3---sn-30a7yne7.c.2mdn.net/videoplayback/id/073bbf2277f2fe06/itag/347/source/doubleclick_dmm/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3729940188/sparams/acao,ctier,expire,id,ip,ipbits,itag,mh,mip,mm,mn,ms,mv,mvi,pl,source/signature/571E00CD3CAB89108F5B97C163A2E85BD6EF7006.7A8DE04E337884EAED647612BE6D2457DF339CF5/key/cms1/cms_redirect/yes/mh/SF/mip/180.183.137.70/mm/42/mn/sn-30a7yne7/ms/onc/mt/1589796677/mv/m/mvi/2/pl/18?cpn=j9-Q3GNnjnb4wVhP&file=file.mp4
-#EXTINF:-1,group-title="TH Digital TV"tvg-logo="https://www.gmm25.com/asset/img/GMM_25_Logo.png",GMM 25
+#EXTINF:-1 group-title="TH-Digital.TV" tvg-logo="https://www.gmm25.com/asset/img/GMM_25_Logo.png",GMM 25
 https://stream-02.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_XE3wNTesUuMoCGTUM-WTq4)/dm/3/x6rz4t7/s/live-3.m3u8
-#EXTINF:-1,group-title="TH Digital TV"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch8.png",8
+#EXTINF:-1 group-title="TH-Digital.TV" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch8.png",8
 https://5b684377f3572.streamlock.net/desktop/ch8_720p/chunklist_w702085957_tkb2FzZW5kdGltZT0xNTg5ODE4NjQ4Jm9hc2hhc2g9THBpeERURzh2T3JKZG1vdUhxLXBKNVZPaVhsZjRKcktrNWp0SXYzNW1iST0=.m3u8
-#EXTINF:-1,group-title="TH Digital TV"tvg-logo="https://mono29.com/app/themes/mono29-2017/assets/images/LOGO.png",MONO29 HD
+#EXTINF:-1 group-title="TH-Digital.TV" tvg-logo="https://mono29.com/app/themes/mono29-2017/assets/images/LOGO.png",MONO29 HD
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w2078914138.m3u8
-#EXTINF:-1,group-title="TH Digital TV"tvg-logo="https://imgs.mcot.net/images/2020/04/1586506833486-128x64.png",MCOT HD
+#EXTINF:-1 group-title="TH-Digital.TV" tvg-logo="https://imgs.mcot.net/images/2020/04/1586506833486-128x64.png",MCOT HD
 https://stream-04.sg1.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xkxwZtUGnN4VqLU94ctcnpw)/dm/3/x74wlgj/s/live-4.m3u8
-#EXTINF:-1,group-title="TH Digital TV"tvg-logo="https://www.one31.net/theme/images/logo-one31.png",One HD
+#EXTINF:-1 group-title="TH-Digital.TV" tvg-logo="https://www.one31.net/theme/images/logo-one31.png",One HD
 https://one31-rlbwkq.cdn.byteark.com/live/playlist_480p/index.m3u8
-#EXTINF:-1,group-title="TH Digital TV"tvg-logo="https://www.thairath.co.th/assets/2017/img/logo-tv.png",Thairat HD
+#EXTINF:-1 group-title="TH-Digital.TV" tvg-logo="https://www.thairath.co.th/assets/2017/img/logo-tv.png",Thairat HD
 https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-#EXTINF:-1,group-title="TH Digital TV"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch3.png",3 HD
+#EXTINF:-1 group-title="TH-Digital.TV" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch3.png",3 HD
 https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1589472428&x_ark_path_prefix=%2Flive%2F&x_ark_signature=tx3yj7oOueyVxp4w58o4-w
-#EXTINF:-1,group-title="TH Digital TV"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-amarin.png",Amarin HD
+#EXTINF:-1 group-title="TH-Digital.TV" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-amarin.png",Amarin HD
 https://amarin-ks7jcc.cdn.byteark.com/live/playlist_720p/index.m3u8?x_ark_access_id=868&x_ark_auth_type=ark-v2&x_ark_expires=1589866893&x_ark_path_prefix=%2Flive%2F&x_ark_signature=kRIPb0AzCBbSCZlhA_Il7A
-#EXTINF:-1,group-title="TH Digital TV"tvg-logo="https://i.webch7.com/images/theme2019/icon/ic_logo_ch7hd.png?a=1",CH7 HD
+#EXTINF:-1 group-title="TH-Digital.TV" tvg-logo="https://i.webch7.com/images/theme2019/icon/ic_logo_ch7hd.png?a=1",CH7 HD
 https://bcovlive-a.akamaihd.net/44cc55c80fef46a8baa3a405433e63b8/ap-southeast-1/5282994675001/profile_4/chunklist.m3u8
-#EXTINF:-1,group-title="TH Digital TV"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-pptv.png",PPTV HD
+#EXTINF:-1 group-title="TH-Digital.TV" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-pptv.png",PPTV HD
 https://pptv36-1tsjfj.cdn.byteark.com/live/pl_720p/index.m3u8?x_ark_access_id=fleet-963&x_ark_auth_type=ark-v2&x_ark_expires=1589818801&x_ark_path_prefix=%2Flive%2F&x_ark_signature=I-1Rt6p4GqK0WkwWVTa9xQ
 
 
@@ -44,35 +44,35 @@ https://pptv36-1tsjfj.cdn.byteark.com/live/pl_720p/index.m3u8?x_ark_access_id=fl
 
 
 
-#EXTINF:-1,group-title="Education Channel"tvg-logo="https://www.dltv.ac.th/upload/data/channels/01_channel_logo.png",DLTV 1 HD
+#EXTINF:-1 group-title="Education" tvg-logo="https://www.dltv.ac.th/upload/data/channels/01_channel_logo.png",DLTV 1 HD
 https://r8---sn-w5nuxa-c33ll.googlevideo.com/videoplayback?expire=1589819616&ei=gGTCXtSzC9W4vwSN8o1A&ip=180.183.137.70&id=9oG0GuRBPss.1&itag=136&aitags=133%2C134%2C135%2C136%2C160&source=yt_live_broadcast&requiressl=yes&mh=lY&mm=44%2C26&mn=sn-w5nuxa-c33ll%2Csn-npoe7nes&ms=lva%2Conr&mv=m&mvi=7&pl=18&initcwndbps=1166250&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1589797935&fvip=4&keepalive=yes&fexp=23882514&c=WEB_EMBEDDED_PLAYER&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRQIhANzmML3uFKZS7C7STvJ8IbVRG3tPV3VLBaV2A5DjnZrTAiB-m7BxvuxR3T9wtU8s50a1uOKJzxjbIbQdPAO_40ZNvg%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAKc5ZKvCG-2yrKgJ8R5UhLNZEUoIxdxX62dWjBAWx982AiEAvcvnbiAAI0ZgHQSCdwz_MmFDSHEaTkj8YM6H4Vjdo4o%3D
-#EXTINF:-1,group-title="Education Channel"tvg-logo="https://www.dltv.ac.th/upload/data/channels/02_channel_logo.png",DLTV 2 HD
+#EXTINF:-1 group-title="Education" tvg-logo="https://www.dltv.ac.th/upload/data/channels/02_channel_logo.png",DLTV 2 HD
 https://r3---sn-w5nuxa-c33lz.googlevideo.com/videoplayback?expire=1589819870&ei=fmXCXrCfLtyC9fwPu6aRyA8&ip=180.183.137.70&id=ObjaWbTwucU.1&itag=136&aitags=133%2C134%2C135%2C136%2C160&source=yt_live_broadcast&requiressl=yes&mh=7W&mm=44%2C26&mn=sn-w5nuxa-c33lz%2Csn-npoe7n7s&ms=lva%2Conr&mv=m&mvi=2&pl=18&initcwndbps=1142500&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1589798175&fvip=3&keepalive=yes&fexp=23882514&c=WEB_EMBEDDED_PLAYER&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRQIgR5u-CZbX_LpjOgrBpCGjd5XSjKbZ1zyWCQaQ-jwdcBICIQC4x8biUmpqwAkF7w2fDPJ3kUv2oQJHMsa5EXO5wq9G2g%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgZFjMmF_qItsGsxDiIO5ZR0PISaMiqFrRIhlMJQmJUeECIHvQqIgJ_G2fA4WvOoW0MBV2z3ldnNYe1YyI53BUFRFS
-#EXTINF:-1,group-title="Education Channel"tvg-logo="https://www.dltv.ac.th/upload/data/channels/03_channel_logo.png",DLTV 3 HD
+#EXTINF:-1 group-title="Education" tvg-logo="https://www.dltv.ac.th/upload/data/channels/03_channel_logo.png",DLTV 3 HD
 https://dltv-live-edge.catcdn.cloud/dltv03_720p.m3u8
-#EXTINF:-1,group-title="Education Channel"tvg-logo="https://www.dltv.ac.th/upload/data/channels/04_channel_logo.png",DLTV 4 HD
+#EXTINF:-1 group-title="Education" tvg-logo="https://www.dltv.ac.th/upload/data/channels/04_channel_logo.png",DLTV 4 HD
 https://r1---sn-w5nuxa-c33ls.googlevideo.com/videoplayback?expire=1589819996&ei=_GXCXv7KJeO63LUP0LKh-AQ&ip=180.183.137.70&id=poQDlU0hjmk.1&itag=136&aitags=133%2C134%2C135%2C136%2C160&source=yt_live_broadcast&requiressl=yes&mh=cW&mm=44%2C26&mn=sn-w5nuxa-c33ls%2Csn-npoe7n7y&ms=lva%2Conr&mv=m&mvi=0&pl=18&initcwndbps=1127500&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1589798296&fvip=1&keepalive=yes&fexp=23882514&c=WEB_EMBEDDED_PLAYER&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRAIgV5YROJvp7iJV6-Y_9FS0ybGzDzXaKEXRfmi1Ut1NKooCIE-FhzPM1CGjYSvDdp_SWnofg4dTSAE4KU_hF9MYSHzo&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhALDOZYAJXHChz5UKluarfCCWiZEElX2vDh-yLZKA9J-OAiEAtOBbvY06jVoeGGKFZbx7Q0hn_fkGE-xFYZ8e7410lMs%3D
-#EXTINF:-1,group-title="Education Channel"tvg-logo="https://www.dltv.ac.th/upload/data/channels/05_channel_logo.png",DLTV 5 HD
+#EXTINF:-1 group-title="Education" tvg-logo="https://www.dltv.ac.th/upload/data/channels/05_channel_logo.png",DLTV 5 HD
 https://dltv-live-edge.catcdn.cloud/dltv05_720p.m3u8
-#EXTINF:-1,group-title="Education Channel"tvg-logo="https://www.dltv.ac.th/upload/data/channels/06_channel_logo.png",DLTV 6 HD
+#EXTINF:-1 group-title="Education" tvg-logo="https://www.dltv.ac.th/upload/data/channels/06_channel_logo.png",DLTV 6 HD
 https://r5---sn-w5nuxa-c33es.googlevideo.com/videoplayback?expire=1589820077&ei=TGbCXqXiOtWcvQS47IaQAw&ip=180.183.137.70&id=ifhRgXcz45E.1&itag=136&aitags=133%2C134%2C135%2C136%2C160&source=yt_live_broadcast&requiressl=yes&mh=CS&mm=44%2C26&mn=sn-w5nuxa-c33es%2Csn-npoeenek&ms=lva%2Conr&mv=m&mvi=4&pl=18&initcwndbps=1388750&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1589798356&fvip=5&keepalive=yes&fexp=23882514&c=WEB_EMBEDDED_PLAYER&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRQIhAM7OpW9whIiDqvusZ9VELONBDNkg0xt6UsvDzA6-5b0cAiAEG86lenQ1VZkV5nJNZLF11onjmGmPSOePKo6CJjvBlg%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAOiL1-WyJ0cDwxvgypTpQtYZlAAv4-7qEu-l4-rtBC7ZAiEAtmKDTKGnpNPQUcPq0UDMPKaiaFoTS6qbj3vmfGfPT9M%3D
-#EXTINF:-1,group-title="Education Channel"tvg-logo="https://www.dltv.ac.th/upload/data/channels/07_channel_logo.png",DLTV 7 HD
+#EXTINF:-1 group-title="Education" tvg-logo="https://www.dltv.ac.th/upload/data/channels/07_channel_logo.png",DLTV 7 HD
 https://dltv-live-edge.catcdn.cloud/dltv07_720p.m3u8
-#EXTINF:-1,group-title="Education Channel"tvg-logo="https://www.dltv.ac.th/upload/data/channels/08_channel_logo.png",DLTV 8 HD
+#EXTINF:-1 group-title="Education" tvg-logo="https://www.dltv.ac.th/upload/data/channels/08_channel_logo.png",DLTV 8 HD
 https://r7---sn-w5nuxa-c33lz.googlevideo.com/videoplayback?expire=1589820181&ei=tWbCXuq9C7zC4-EPtoau4Ak&ip=180.183.137.70&id=QjG4gqDkxNI.1&itag=136&aitags=133%2C134%2C135%2C136%2C160&source=yt_live_broadcast&requiressl=yes&mh=6s&mm=44%2C26&mn=sn-w5nuxa-c33lz%2Csn-npoe7ned&ms=lva%2Conr&mv=m&mvi=6&pcm2cms=yes&pl=18&initcwndbps=1216250&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1589798476&fvip=3&keepalive=yes&fexp=23882514&c=WEB_EMBEDDED_PLAYER&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRQIgSXXcE1K57erFIokXmzyWq1waDEj4VT8Z8wQbw3aL7PgCIQC6inW_DfV1x7-eNp53rTYBYpWKrjmiDv6Zj5KS3V1uLw%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgCOdg6VD0HvamhZhIVWAtOaUOfernB5tNNlg5mKmjwJcCIGZ_do1jgWPAuHRLH_QJltUtoOm1oV377IiM77KE6sHc
-#EXTINF:-1,group-title="Education Channel"tvg-logo="https://www.dltv.ac.th/upload/data/channels/09_channel_logo.png",DLTV 9 HD
+#EXTINF:-1 group-title="Education" tvg-logo="https://www.dltv.ac.th/upload/data/channels/09_channel_logo.png",DLTV 9 HD
 https://r7---sn-w5nuxa-c33ek.googlevideo.com/videoplayback?expire=1589820227&ei=4mbCXvjPPPWN1AbQpYWoBA&ip=180.183.137.70&id=vW9Cx_NwiK0.1&itag=136&aitags=133%2C134%2C135%2C136%2C160&source=yt_live_broadcast&requiressl=yes&mh=X4&mm=44%2C26&mn=sn-w5nuxa-c33ek%2Csn-npoeen7d&ms=lva%2Conr&mv=m&mvi=6&pcm2cms=yes&pl=18&initcwndbps=1405000&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1589798539&fvip=6&keepalive=yes&fexp=23882514&c=WEB_EMBEDDED_PLAYER&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRAIgZni0f9rmecfj247hdRYNc4OOd0xgclMK2okSS0X432sCIEzr8B3KOXSC-GlDbZFkkO2J5knJJYZSV48BRq7zs31i&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAJ-nEDVAkBeSBXyCZglRCsw0tMahc4-ZiHcETdWA7IlgAiEAltTyWXqlUdqk-TlrmpLgEUepCcANt9NGSdYpaDx3Ugk%3D&alr=yes&cpn=u3p6P-QRHPSnhbE-&cver=20200514&rn=8
-#EXTINF:-1,group-title="Education Channel"tvg-logo="https://www.dltv.ac.th/upload/data/channels/10_channel_logo.png",DLTV 10 HD
+#EXTINF:-1 group-title="Education" tvg-logo="https://www.dltv.ac.th/upload/data/channels/10_channel_logo.png",DLTV 10 HD
 https://dltv-live-edge.catcdn.cloud/dltv10_720p.m3u8
-#EXTINF:-1,group-title="Education Channel"tvg-logo="https://www.dltv.ac.th/upload/data/channels/11_channel_logo.png",DLTV 11 HD
+#EXTINF:-1 group-title="Education" tvg-logo="https://www.dltv.ac.th/upload/data/channels/11_channel_logo.png",DLTV 11 HD
 https://r3---sn-w5nuxa-c33le.googlevideo.com/videoplayback?expire=1589820423&ei=p2fCXtqKCYrL3LUP_IKk-AU&ip=180.183.137.70&id=BMclsq4FpJI.1&itag=136&aitags=133%2C134%2C135%2C136%2C160&source=yt_live_broadcast&requiressl=yes&mh=s1&mm=44%2C26&mn=sn-w5nuxa-c33le%2Csn-npoeeney&ms=lva%2Conr&mv=m&mvi=2&pcm2cms=yes&pl=18&initcwndbps=1263750&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1589798717&fvip=3&keepalive=yes&fexp=23882514&c=WEB_EMBEDDED_PLAYER&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRAIgHV7o0o1i63R5AuymDR_qevO_fXYhKjh6-pNYBUyVfMkCIET4Q7weZnUbcvcbHRuJw7xWl6_C878YjThtLBZHCGKM&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgXHw4aOCI3WpCjYh4e2B8-fx7GVfoIyOH4S36t6QlahcCIBfiAW4itA5YSFE57IfJ12ZdYbP-uoCmt9wTIQ_F4v88
-#EXTINF:-1,group-title="Education Channel"tvg-logo="https://www.dltv.ac.th/upload/data/channels/12_channel_logo.png",DLTV 12 HD
+#EXTINF:-1 group-title="Education" tvg-logo="https://www.dltv.ac.th/upload/data/channels/12_channel_logo.png",DLTV 12 HD
 https://r5---sn-w5nuxa-c33ls.googlevideo.com/videoplayback?expire=1589820481&ei=4WfCXtXoB9OKmgej4pFA&ip=180.183.137.70&id=69Mj5N730L4.1&itag=136&aitags=133%2C134%2C135%2C136%2C160&source=yt_live_broadcast&requiressl=yes&mh=EQ&mm=44%2C26&mn=sn-w5nuxa-c33ls%2Csn-npoe7n7z&ms=lva%2Conr&mv=m&mvi=4&pl=18&initcwndbps=1205000&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1589798777&fvip=5&keepalive=yes&fexp=23882514&c=WEB_EMBEDDED_PLAYER&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRQIhAJSYtZQGvQzjp4DqRvZeorsIEB1Y8fwDZQC79GyUoaUYAiApqUdQ60ITicx8tcd7nW0wggJWBAK-EopQ1azyPtltyQ%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAPe8IurNpry5eWDAPrX38yZTNkg70FLQwCm64pSVTHRDAiEAv9tIxHNLkdoGsr7xesFppvhlHC5rUkIl_zyz2PzLBTU%3D
-#EXTINF:-1,group-title="Education Channel"tvg-logo="https://www.dltv.ac.th/upload/data/channels/13_channel_logo.png",DLTV 13 HD
+#EXTINF:-1 group-title="Education" tvg-logo="https://www.dltv.ac.th/upload/data/channels/13_channel_logo.png",DLTV 13 HD
 https://dltv-live-edge.catcdn.cloud/dltv13_720p.m3u8
-#EXTINF:-1,group-title="Education Channel"tvg-logo="https://www.dltv.ac.th/upload/data/channels/14_channel_logo.png",DLTV 14 HD
+#EXTINF:-1 group-title="Education" tvg-logo="https://www.dltv.ac.th/upload/data/channels/14_channel_logo.png",DLTV 14 HD
 https://dltv-live-edge.catcdn.cloud/dltv14_720p.m3u8
-#EXTINF:-1,group-title="Education Channel"tvg-logo="https://www.dltv.ac.th/upload/data/channels/15_channel_logo.png",DLTV 15 HD
+#EXTINF:-1 group-title="Education" tvg-logo="https://www.dltv.ac.th/upload/data/channels/15_channel_logo.png",DLTV 15 HD
 https://dltv-live-edge.catcdn.cloud/dltv15_720p.m3u8
 
 
@@ -82,45 +82,45 @@ https://dltv-live-edge.catcdn.cloud/dltv15_720p.m3u8
 
 
 
-#EXTINF:-1,group-title="Movie TV Channel"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg",HBO HD
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg",HBO HD
 https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
-#EXTINF:-1,group-title="Movie TV Channel"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg",HBO Hits HD
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg",HBO Hits HD
 https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
-#EXTINF:-1,group-title="Movie TV Channel"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbosignature.jpg",HBO Signature HD
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbosignature.jpg",HBO Signature HD
 https://www.livedoomovies.com/02_HBOSignature_720p/chunklist.m3u8
-#EXTINF:-1,group-title="Movie TV Channel"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-screenred.jpg",RED BY HBO HD
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-screenred.jpg",RED BY HBO HD
 https://www.livedoomovies.com/02_RedbyHBO_720p/chunklist.m3u8
-#EXTINF:-1,group-title="Movie TV Channel"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png",WARNER TV HD
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png",WARNER TV HD
 https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
-#EXTINF:-1,group-title="Movie TV Channel"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-axn.png",AXN HD
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-axn.png",AXN HD
 https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
-#EXTINF:-1,group-title="Movie TV Channel"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",Fox Action HD
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",Fox Action HD
 https://www.livedoomovies.com/02_FoxActionHD_720p/chunklist.m3u8
-#EXTINF:-1,group-title="Movie TV Channel"tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png",Fox Family Movies
+#EXTINF:-1 group-title="Movie" tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png",Fox Family Movies
 https://www.livedoomovies.com/02_FoxFamilyHD_720p/chunklist.m3u8
-#EXTINF:-1,group-title="Movie TV Channel"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-fx.jpg",FX HD
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-fx.jpg",FX HD
 https://www.livedoomovies.com/02_FXThailand_720p/chunklist.m3u8
-#EXTINF:-1,group-title="Movie TV Channel"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-comedycentral.png",Comedy Central
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-comedycentral.png",Comedy Central
 https://www.livedoomovies.com/02_Comedy_HD_720p/chunklist.m3u8
-#EXTINF:-1,group-title="Movie TV Channel"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxcrime.jpg",Fox Crime TH
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxcrime.jpg",Fox Crime TH
 https://www.livedoomovies.com/02_FoxCrimeHD_TH_720p/chunklist.m3u8
-#EXTINF:-1,group-title="Movie TV Channel"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxcrime.jpg",Fox Crime EN
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxcrime.jpg",Fox Crime EN
 https://www.livedoomovies.com/02_FoxCrimeHD_720p/chunklist.m3u8
-#EXTINF:-1,group-title="Movie TV Channel"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-fox.png",Fox Thai TH
+#EXTINF:-1 group-title="Movie" tvg-logo="tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-fox.png",Fox Thai TH
 https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
-#EXTINF:-1,group-title="Movie TV Channel"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-fox.png",Fox Thai EN
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-fox.png",Fox Thai EN
 https://www.livedoomovies.com/02_FoxThai_720p/chunklist.m3u8
-#EXTINF:-1,group-title="Movie TV Channel"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/MANGORN.png",Mangorn
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/MANGORN.png",Mangorn
 https://www.livedoomovies.com/02_MANGORN_720p/chunklist.m3u8
-#EXTINF:-1,group-title="Movie TV Channel"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/MONO_Plus.png",MONO Plus
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/MONO_Plus.png",MONO Plus
 https://www.livedoomovies.com/02_MONO_Plus_720p/chunklist.m3u8
-#EXTINF:-1,group-title="Movie TV Channel"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/02_FOX_Life_HD_720p.png",Fox Life
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/02_FOX_Life_HD_720p.png",Fox Life
 https://www.livedoomovies.com/02_FOX_Life_HD_720p/chunklist.m3u8
-#EXTINF:-1,group-title="Movie TV Channel"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/SCM.png",Star Chinese Movie
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/SCM.png",Star Chinese Movie
 https://www.livedoomovies.com/02_SCM_720p/chunklist.m3u8
-#EXTINF:-1,group-title="Movie TV Channel"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/CCM.png",CCM
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/CCM.png",CCM
 https://www.livedoomovies.com/02_CCM_720p/chunklist.m3u8
-#EXTINF:-1,group-title="Movie TV Channel"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/ZeeNung.png",ZEE หนัง
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/ZeeNung.png",ZEE หนัง
 https://www.livedoomovies.com/02_Zee_Nung_720p/chunklist.m3u8
 
 
@@ -130,9 +130,9 @@ https://www.livedoomovies.com/02_Zee_Nung_720p/chunklist.m3u8
 
 
 
-#EXTINF:-1,group-title="Movie From Cinema"tvg-logo="https://movie285.com/wp-content/uploads/2020/05/p99.jpg",The Call Of The Wild EN
+#EXTINF:-1 group-title="Movie.From.Cinema" tvg-logo="https://movie285.com/wp-content/uploads/2020/05/p99.jpg",The Call Of The Wild EN
 https://cdn5.cdn9x.com/eg2cladv/1080p.m3u8
-#EXTINF:-1,group-title="Movie From Cinema"tvg-logo="https://movie285.com/wp-content/uploads/2020/04/4045.jpg",Dragonheart Vengeance TH
+#EXTINF:-1 group-title="Movie.From.Cinema" tvg-logo="https://movie285.com/wp-content/uploads/2020/04/4045.jpg",Dragonheart Vengeance TH
 https://cdn5.cdn9x.com/3lrtkkeq/1080p.m3u8
 
 
@@ -142,5 +142,5 @@ https://cdn5.cdn9x.com/3lrtkkeq/1080p.m3u8
 
 
 
-#EXTINF:-1,group-title="Sports"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein1.png",BEIN SPORTS HD 1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein1.png",BEIN SPORTS HD 1
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
